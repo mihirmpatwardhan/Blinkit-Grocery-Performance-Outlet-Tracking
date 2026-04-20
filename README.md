@@ -45,7 +45,7 @@ Below is the comprehensive visual representation of the analysis:
 
 ![Blinkit Dashboard Screenshot](https://github.com/mihirmpatwardhan/Blinkit-Grocery-Performance-Outlet-Tracking/blob/main/Snapshot%20Of%20Dashboard%20(2).png)
 
-> **Note:** If the image above does not load, please ensure the screenshot file is named `dashboard_screenshot.png` and is located in the root directory of your repository.
+
 
 ---
 
